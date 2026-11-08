@@ -1,0 +1,31 @@
+Alias,Intended Standard Name,Suggested Vocabulary Match,Similarity Score
+JS,JavaScript,JavaScript,100.0
+JS,JavaScript,JavaScript Object Notation JSON,90.0
+JS,JavaScript,JavaScript framework software,90.0
+ML,Machine Learning,Shiny,57.0
+ML,Machine Learning,Apache Pig,53.84615384615385
+ML,Machine Learning,LangChain,53.4375
+AWS,Amazon Web Services,Amazon Web Services AWS CloudFormation,90.0
+AWS,Amazon Web Services,Amazon Web Services AWS SageMaker,90.0
+AWS,Amazon Web Services,Amazon Web Services AWS software,90.0
+K8s,Kubernetes,Kubernetes,100.0
+K8s,Kubernetes,Oberon,60.00000000000001
+K8s,Kubernetes,Evernote,55.55555555555556
+TF,TensorFlow,TensorFlow,100.0
+TF,TensorFlow,Mlflow,60.00000000000001
+TF,TensorFlow,Delphi Technology,54.0
+Py,Python,Python,100.0
+Py,Python,Encryption software,60.00000000000001
+Py,Python,End-to-end encryption software,60.00000000000001
+SQL,Structured Query Language,Collaborative Application Markup Language CAML,85.5
+SQL,Structured Query Language,Computer On-line Real-time Applications Language CORAL 66,85.5
+SQL,Structured Query Language,Structured query language SQL,85.18518518518519
+NLP,Natural Language Processing,Collaborative Application Markup Language CAML,85.5
+NLP,Natural Language Processing,Computer On-line Real-time Applications Language CORAL 66,85.5
+NLP,Natural Language Processing,Canu,67.5
+CV,Computer Vision,Computer Associates integrated data management system CA-IDMS,85.5
+CV,Computer Vision,Computer On-line Real-time Applications Language CORAL 66,85.5
+CV,Computer Vision,Computer aided design and drafting CADD software,85.5
+API,Application Programming Interface,Apple iOS,64.28571428571429
+API,Application Programming Interface,Oracle Application Server,62.241379310344826
+API,Application Programming Interface,Advanced business application programming ABAP,60.12658227848101
