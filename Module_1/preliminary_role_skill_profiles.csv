@@ -1,0 +1,372 @@
+Project_Role,Skill_Name,Postings_Mentioning_Skill,Total_Role_Postings,Skill_Prevalence_Percent
+AI Engineer,Python,111,142,78.17
+AI Engineer,TensorFlow,61,142,42.96
+AI Engineer,PyTorch,56,142,39.44
+AI Engineer,C++,25,142,17.61
+AI Engineer,Scikit-learn,25,142,17.61
+AI Engineer,Kubernetes,22,142,15.49
+AI Engineer,Docker,18,142,12.68
+AI Engineer,Scala,18,142,12.68
+AI Engineer,Git,12,142,8.45
+AI Engineer,LinkedIn,12,142,8.45
+AI Engineer,pandas,11,142,7.75
+AI Engineer,Keras,10,142,7.04
+AI Engineer,NoSQL,10,142,7.04
+AI Engineer,NumPy,10,142,7.04
+AI Engineer,LangChain,7,142,4.93
+AI Engineer,Bash,6,142,4.23
+AI Engineer,GitHub,6,142,4.23
+AI Engineer,Kubeflow,6,142,4.23
+AI Engineer,BigQuery,5,142,3.52
+AI Engineer,GitLab,5,142,3.52
+AI Engineer,MongoDB,5,142,3.52
+AI Engineer,Flask,4,142,2.82
+AI Engineer,Linux,4,142,2.82
+AI Engineer,Mlflow,4,142,2.82
+AI Engineer,PySpark,4,142,2.82
+AI Engineer,Snowflake,4,142,2.82
+AI Engineer,Microservices Architecture,3,142,2.11
+AI Engineer,spaCy,3,142,2.11
+AI Engineer,Apache MXNet,2,142,1.41
+AI Engineer,Apache Spark,2,142,1.41
+AI Engineer,Django,2,142,1.41
+AI Engineer,Hugging Face,2,142,1.41
+AI Engineer,JavaScript,2,142,1.41
+AI Engineer,PostgreSQL,2,142,1.41
+AI Engineer,Redis,2,142,1.41
+AI Engineer,Julia,1,142,0.7
+AI Engineer,MySQL,1,142,0.7
+AI Engineer,Neo4j,1,142,0.7
+AI Engineer,Node.js,1,142,0.7
+AI Engineer,React,1,142,0.7
+AI Engineer,SciPy,1,142,0.7
+AI Engineer,Simulation software,1,142,0.7
+AI Engineer,Software libraries,1,142,0.7
+AI Engineer,Tableau,1,142,0.7
+AI Engineer,UNIX,1,142,0.7
+AI Engineer,XGBoost,1,142,0.7
+AI Engineer,YouTube,1,142,0.7
+AI Engineer,Zoom,1,142,0.7
+Cybersecurity Analyst,Python,9,60,15.0
+Cybersecurity Analyst,Linux,8,60,13.33
+Cybersecurity Analyst,Bash,3,60,5.0
+Cybersecurity Analyst,UNIX,3,60,5.0
+Cybersecurity Analyst,VMware,3,60,5.0
+Cybersecurity Analyst,eMASS,3,60,5.0
+Cybersecurity Analyst,JavaScript,2,60,3.33
+Cybersecurity Analyst,McAfee,2,60,3.33
+Cybersecurity Analyst,Microsoft Windows,2,60,3.33
+Cybersecurity Analyst,Snort,2,60,3.33
+Cybersecurity Analyst,Symantec Endpoint Protection,2,60,3.33
+Cybersecurity Analyst,Wireshark,2,60,3.33
+Cybersecurity Analyst,Apple iOS,1,60,1.67
+Cybersecurity Analyst,C++,1,60,1.67
+Cybersecurity Analyst,Cisco IOS,1,60,1.67
+Cybersecurity Analyst,GitHub,1,60,1.67
+Cybersecurity Analyst,Microsoft Active Directory,1,60,1.67
+Cybersecurity Analyst,Microsoft Excel,1,60,1.67
+Cybersecurity Analyst,Microsoft SQL Server,1,60,1.67
+Cybersecurity Analyst,Microsoft Windows Server,1,60,1.67
+Cybersecurity Analyst,Node.js,1,60,1.67
+Cybersecurity Analyst,Rapid7 Nexpose,1,60,1.67
+Cybersecurity Analyst,React,1,60,1.67
+Cybersecurity Analyst,Slack,1,60,1.67
+Data Analyst,Python,154,445,34.61
+Data Analyst,Tableau,103,445,23.15
+Data Analyst,JavaScript,46,445,10.34
+Data Analyst,C++,41,445,9.21
+Data Analyst,SAS,33,445,7.42
+Data Analyst,Microsoft Excel,32,445,7.19
+Data Analyst,Snowflake,30,445,6.74
+Data Analyst,Google Sheets,8,445,1.8
+Data Analyst,LinkedIn,8,445,1.8
+Data Analyst,Git,7,445,1.57
+Data Analyst,Microsoft Access,7,445,1.57
+Data Analyst,Forth,6,445,1.35
+Data Analyst,MicroStrategy,5,445,1.12
+Data Analyst,Statistical software,5,445,1.12
+Data Analyst,Bash,4,445,0.9
+Data Analyst,GitHub,4,445,0.9
+Data Analyst,Google Analytics,4,445,0.9
+Data Analyst,Neo4j,4,445,0.9
+Data Analyst,NoSQL,4,445,0.9
+Data Analyst,PostgreSQL,4,445,0.9
+Data Analyst,PySpark,4,445,0.9
+Data Analyst,Reporting software,4,445,0.9
+Data Analyst,Scala,4,445,0.9
+Data Analyst,Ada,3,445,0.67
+Data Analyst,BigQuery,3,445,0.67
+Data Analyst,Docker,3,445,0.67
+Data Analyst,Kubernetes,3,445,0.67
+Data Analyst,Microsoft Office software,3,445,0.67
+Data Analyst,Microsoft Power BI,3,445,0.67
+Data Analyst,MySQL,3,445,0.67
+Data Analyst,NumPy,3,445,0.67
+Data Analyst,UNIX,3,445,0.67
+Data Analyst,YouTube,3,445,0.67
+Data Analyst,Business intelligence software,2,445,0.45
+Data Analyst,Data analysis software,2,445,0.45
+Data Analyst,GitLab,2,445,0.45
+Data Analyst,Google Slides,2,445,0.45
+Data Analyst,Julia,2,445,0.45
+Data Analyst,Microsoft Power Automate,2,445,0.45
+Data Analyst,Microsoft SQL Server,2,445,0.45
+Data Analyst,Microsoft Visio,2,445,0.45
+Data Analyst,Minitab,2,445,0.45
+Data Analyst,Scikit-learn,2,445,0.45
+Data Analyst,Slack,2,445,0.45
+Data Analyst,Spring Boot,2,445,0.45
+Data Analyst,UNIX Shell,2,445,0.45
+Data Analyst,pandas,2,445,0.45
+Data Analyst,AJAX,1,445,0.22
+Data Analyst,Apache Hadoop,1,445,0.22
+Data Analyst,Apache Spark,1,445,0.22
+Data Analyst,Atlassian Confluence,1,445,0.22
+Data Analyst,Google Ads,1,445,0.22
+Data Analyst,IBM DB2,1,445,0.22
+Data Analyst,JUnit,1,445,0.22
+Data Analyst,Microservices Architecture,1,445,0.22
+Data Analyst,Microsoft Dynamics,1,445,0.22
+Data Analyst,Microsoft Outlook,1,445,0.22
+Data Analyst,Microsoft Word,1,445,0.22
+Data Analyst,MongoDB,1,445,0.22
+Data Analyst,Oracle PL/SQL,1,445,0.22
+Data Analyst,PyTorch,1,445,0.22
+Data Analyst,Redis,1,445,0.22
+Data Analyst,Ruby,1,445,0.22
+Data Analyst,SAP Business Objects,1,445,0.22
+Data Analyst,Scheme,1,445,0.22
+Data Analyst,Swift,1,445,0.22
+Data Analyst,TensorFlow,1,445,0.22
+Data Analyst,TypeScript,1,445,0.22
+Data Analyst,VMware,1,445,0.22
+Data Analyst,Zoom,1,445,0.22
+Data Analyst,jQuery,1,445,0.22
+Full Stack Developer,React,114,234,48.72
+Full Stack Developer,JavaScript,106,234,45.3
+Full Stack Developer,Python,60,234,25.64
+Full Stack Developer,TypeScript,58,234,24.79
+Full Stack Developer,Git,53,234,22.65
+Full Stack Developer,Node.js,47,234,20.09
+Full Stack Developer,Docker,46,234,19.66
+Full Stack Developer,Kubernetes,36,234,15.38
+Full Stack Developer,Spring Boot,34,234,14.53
+Full Stack Developer,MySQL,27,234,11.54
+Full Stack Developer,NoSQL,25,234,10.68
+Full Stack Developer,PostgreSQL,25,234,10.68
+Full Stack Developer,GitHub,23,234,9.83
+Full Stack Developer,PHP,21,234,8.97
+Full Stack Developer,MongoDB,20,234,8.55
+Full Stack Developer,Microservices Architecture,16,234,6.84
+Full Stack Developer,jQuery,16,234,6.84
+Full Stack Developer,GraphQL,13,234,5.56
+Full Stack Developer,JUnit,13,234,5.56
+Full Stack Developer,Django,12,234,5.13
+Full Stack Developer,LinkedIn,11,234,4.7
+Full Stack Developer,Ruby,11,234,4.7
+Full Stack Developer,Ruby on Rails,11,234,4.7
+Full Stack Developer,Linux,10,234,4.27
+Full Stack Developer,Selenium,9,234,3.85
+Full Stack Developer,Spring Framework,9,234,3.85
+Full Stack Developer,GitLab,8,234,3.42
+Full Stack Developer,RESTful API,7,234,2.99
+Full Stack Developer,AJAX,6,234,2.56
+Full Stack Developer,Bash,6,234,2.56
+Full Stack Developer,Bootstrap,6,234,2.56
+Full Stack Developer,Elasticsearch,6,234,2.56
+Full Stack Developer,Redis,6,234,2.56
+Full Stack Developer,Vue.js,6,234,2.56
+Full Stack Developer,C++,5,234,2.14
+Full Stack Developer,React Native,5,234,2.14
+Full Stack Developer,Snowflake,5,234,2.14
+Full Stack Developer,Gradle,4,234,1.71
+Full Stack Developer,Kotlin,4,234,1.71
+Full Stack Developer,Scala,4,234,1.71
+Full Stack Developer,Scheme,4,234,1.71
+Full Stack Developer,Swift,4,234,1.71
+Full Stack Developer,Flask,3,234,1.28
+Full Stack Developer,UNIX,3,234,1.28
+Full Stack Developer,Apache Spark,2,234,0.85
+Full Stack Developer,Apache Tomcat,2,234,0.85
+Full Stack Developer,BigQuery,2,234,0.85
+Full Stack Developer,Figma,2,234,0.85
+Full Stack Developer,LAMP Stack,2,234,0.85
+Full Stack Developer,Microsoft SQL Server,2,234,0.85
+Full Stack Developer,Neo4j,2,234,0.85
+Full Stack Developer,Oracle Database,2,234,0.85
+Full Stack Developer,SonarQube,2,234,0.85
+Full Stack Developer,Zoom,2,234,0.85
+Full Stack Developer,ADO.NET,1,234,0.43
+Full Stack Developer,Amazon Redshift,1,234,0.43
+Full Stack Developer,Chef,1,234,0.43
+Full Stack Developer,Forth,1,234,0.43
+Full Stack Developer,Google Analytics,1,234,0.43
+Full Stack Developer,HP Fortify,1,234,0.43
+Full Stack Developer,Hibernate ORM,1,234,0.43
+Full Stack Developer,LangChain,1,234,0.43
+Full Stack Developer,Microsoft .NET Framework,1,234,0.43
+Full Stack Developer,Microsoft Windows,1,234,0.43
+Full Stack Developer,Objective C,1,234,0.43
+Full Stack Developer,Perl,1,234,0.43
+Full Stack Developer,Ping Identity,1,234,0.43
+Full Stack Developer,Puppet,1,234,0.43
+Full Stack Developer,PySpark,1,234,0.43
+Full Stack Developer,ServiceNow,1,234,0.43
+Full Stack Developer,Software development tools,1,234,0.43
+Full Stack Developer,Tableau,1,234,0.43
+Full Stack Developer,VMware,1,234,0.43
+Full Stack Developer,WordPress,1,234,0.43
+Full Stack Developer,Xcode,1,234,0.43
+Full Stack Developer,YouTube,1,234,0.43
+Software Engineer,Python,614,1614,38.04
+Software Engineer,JavaScript,505,1614,31.29
+Software Engineer,C++,386,1614,23.92
+Software Engineer,Kubernetes,284,1614,17.6
+Software Engineer,Docker,278,1614,17.22
+Software Engineer,React,269,1614,16.67
+Software Engineer,Git,247,1614,15.3
+Software Engineer,TypeScript,246,1614,15.24
+Software Engineer,Linux,211,1614,13.07
+Software Engineer,NoSQL,192,1614,11.9
+Software Engineer,Node.js,129,1614,7.99
+Software Engineer,GitHub,101,1614,6.26
+Software Engineer,MySQL,82,1614,5.08
+Software Engineer,Spring Boot,80,1614,4.96
+Software Engineer,Scala,74,1614,4.58
+Software Engineer,PostgreSQL,72,1614,4.46
+Software Engineer,MongoDB,63,1614,3.9
+Software Engineer,Kotlin,57,1614,3.53
+Software Engineer,UNIX,55,1614,3.41
+Software Engineer,GraphQL,50,1614,3.1
+Software Engineer,Redis,49,1614,3.04
+Software Engineer,GitLab,47,1614,2.91
+Software Engineer,jQuery,45,1614,2.79
+Software Engineer,Swift,44,1614,2.73
+Software Engineer,LinkedIn,43,1614,2.66
+Software Engineer,Gradle,42,1614,2.6
+Software Engineer,Selenium,42,1614,2.6
+Software Engineer,JUnit,39,1614,2.42
+Software Engineer,Ruby,39,1614,2.42
+Software Engineer,Bash,36,1614,2.23
+Software Engineer,AJAX,33,1614,2.04
+Software Engineer,Bootstrap,31,1614,1.92
+Software Engineer,PHP,31,1614,1.92
+Software Engineer,Microservices Architecture,28,1614,1.73
+Software Engineer,PyTorch,28,1614,1.73
+Software Engineer,RESTful API,28,1614,1.73
+Software Engineer,Django,26,1614,1.61
+Software Engineer,SonarQube,26,1614,1.61
+Software Engineer,TensorFlow,24,1614,1.49
+Software Engineer,Microsoft SQL Server,23,1614,1.43
+Software Engineer,Prometheus,23,1614,1.43
+Software Engineer,Ada,22,1614,1.36
+Software Engineer,React Native,22,1614,1.36
+Software Engineer,RabbitMQ,20,1614,1.24
+Software Engineer,Snowflake,19,1614,1.18
+Software Engineer,Spring Framework,19,1614,1.18
+Software Engineer,Vue.js,19,1614,1.18
+Software Engineer,Flask,18,1614,1.12
+Software Engineer,Ruby on Rails,17,1614,1.05
+Software Engineer,Software development tools,16,1614,0.99
+Software Engineer,Chef,15,1614,0.93
+Software Engineer,Elasticsearch,14,1614,0.87
+Software Engineer,Perl,14,1614,0.87
+Software Engineer,Puppet,14,1614,0.87
+Software Engineer,Apache Kafka,12,1614,0.74
+Software Engineer,VMware,12,1614,0.74
+Software Engineer,BigQuery,11,1614,0.68
+Software Engineer,Oracle Database,11,1614,0.68
+Software Engineer,Tableau,11,1614,0.68
+Software Engineer,Apache Spark,10,1614,0.62
+Software Engineer,Scikit-learn,9,1614,0.56
+Software Engineer,Figma,8,1614,0.5
+Software Engineer,ServiceNow,8,1614,0.5
+Software Engineer,Slack,8,1614,0.5
+Software Engineer,YouTube,8,1614,0.5
+Software Engineer,ADO.NET,7,1614,0.43
+Software Engineer,Apache Tomcat,7,1614,0.43
+Software Engineer,CMake,7,1614,0.43
+Software Engineer,NumPy,7,1614,0.43
+Software Engineer,pandas,7,1614,0.43
+Software Engineer,PySpark,6,1614,0.37
+Software Engineer,Simulation software,6,1614,0.37
+Software Engineer,Forth,5,1614,0.31
+Software Engineer,Microsoft Dynamics,5,1614,0.31
+Software Engineer,Objective C,5,1614,0.31
+Software Engineer,SAS,5,1614,0.31
+Software Engineer,Xcode,5,1614,0.31
+Software Engineer,Zoom,5,1614,0.31
+Software Engineer,Dropbox,4,1614,0.25
+Software Engineer,Jenkins CI,4,1614,0.25
+Software Engineer,Version control software,4,1614,0.25
+Software Engineer,IBM DB2,3,1614,0.19
+Software Engineer,Microsoft .NET Framework,3,1614,0.19
+Software Engineer,Microsoft Teams,3,1614,0.19
+Software Engineer,UNIX Shell,3,1614,0.19
+Software Engineer,Wireshark,3,1614,0.19
+Software Engineer,XGBoost,3,1614,0.19
+Software Engineer,spaCy,3,1614,0.19
+Software Engineer,Apache Airflow,2,1614,0.12
+Software Engineer,Apache Struts,2,1614,0.12
+Software Engineer,Atlassian JIRA,2,1614,0.12
+Software Engineer,Google Ads,2,1614,0.12
+Software Engineer,Google Analytics,2,1614,0.12
+Software Engineer,Google Meet,2,1614,0.12
+Software Engineer,LangChain,2,1614,0.12
+Software Engineer,Microsoft ASP.NET,2,1614,0.12
+Software Engineer,Microsoft PowerShell,2,1614,0.12
+Software Engineer,Microsoft SharePoint,2,1614,0.12
+Software Engineer,Microsoft Visual Studio,2,1614,0.12
+Software Engineer,Neo4j,2,1614,0.12
+Software Engineer,Oracle PL/SQL,2,1614,0.12
+Software Engineer,SAP Business Intelligence,2,1614,0.12
+Software Engineer,Salesforce software,2,1614,0.12
+Software Engineer,SciPy,2,1614,0.12
+Software Engineer,Ubuntu,2,1614,0.12
+Software Engineer,WordPress,2,1614,0.12
+Software Engineer,AWK,1,1614,0.06
+Software Engineer,Amazon Kinesis,1,1614,0.06
+Software Engineer,Apache HBase,1,1614,0.06
+Software Engineer,Apache Hadoop,1,1614,0.06
+Software Engineer,Apache Maven,1,1614,0.06
+Software Engineer,Apache Solr,1,1614,0.06
+Software Engineer,Atlassian Bitbucket,1,1614,0.06
+Software Engineer,Data analysis software,1,1614,0.06
+Software Engineer,Deployment software,1,1614,0.06
+Software Engineer,ESRI ArcGIS software,1,1614,0.06
+Software Engineer,Embarcadero Delphi,1,1614,0.06
+Software Engineer,Ethereal,1,1614,0.06
+Software Engineer,Google Docs,1,1614,0.06
+Software Engineer,HP Fortify,1,1614,0.06
+Software Engineer,HP WebInspect,1,1614,0.06
+Software Engineer,Hugging Face,1,1614,0.06
+Software Engineer,IBM WebSphere MQ,1,1614,0.06
+Software Engineer,IpTables,1,1614,0.06
+Software Engineer,JFrog Artifactory,1,1614,0.06
+Software Engineer,Jupyter Notebook,1,1614,0.06
+Software Engineer,Keras,1,1614,0.06
+Software Engineer,KornShell,1,1614,0.06
+Software Engineer,LexisNexis,1,1614,0.06
+Software Engineer,Microsoft ASP.NET Core MVC,1,1614,0.06
+Software Engineer,Microsoft Access,1,1614,0.06
+Software Engineer,Microsoft Excel,1,1614,0.06
+Software Engineer,Microsoft Power BI,1,1614,0.06
+Software Engineer,Microsoft Team Foundation Server,1,1614,0.06
+Software Engineer,Microsoft Visual Studio.NET,1,1614,0.06
+Software Engineer,Microsoft Windows,1,1614,0.06
+Software Engineer,Microsoft Windows Server,1,1614,0.06
+Software Engineer,Mlflow,1,1614,0.06
+Software Engineer,Oracle Java,1,1614,0.06
+Software Engineer,Pascal,1,1614,0.06
+Software Engineer,PuTTY,1,1614,0.06
+Software Engineer,QNX,1,1614,0.06
+Software Engineer,React Redux,1,1614,0.06
+Software Engineer,Red Hat OpenShift,1,1614,0.06
+Software Engineer,SAP ERP,1,1614,0.06
+Software Engineer,SAP software,1,1614,0.06
+Software Engineer,Scheme,1,1614,0.06
+Software Engineer,Skype,1,1614,0.06
+Software Engineer,Software libraries,1,1614,0.06
+Software Engineer,Verilog,1,1614,0.06
+Software Engineer,Wind River VxWorks,1,1614,0.06
+Software Engineer,Workday software,1,1614,0.06

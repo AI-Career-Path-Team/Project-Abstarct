@@ -1,0 +1,619 @@
+Skill ID,Skill Name,Skill_Category,Hot_Technology,In_Demand,Associated_Roles
+SK00001,3D graphics software,Graphics or photo imaging software,N,N,AI Engineer
+SK00002,3M Post-it App,Word processing software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00003,A programming language APL,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00004,ABC Compiler,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00005,ABC: the AspectBench Compiler for AspectJ,Object or component oriented development software,N,N,"Full Stack Developer, Software Engineer"
+SK00006,ADO.NET,Data base user interface and query software,N,N,"Full Stack Developer, Software Engineer"
+SK00007,AJAX,Web platform development software,Y,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00008,AWK,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00009,Access management software,Access software,N,N,Cybersecurity Analyst
+SK00010,AccessData FTK,Network monitoring software,N,N,Cybersecurity Analyst
+SK00011,Active directory software,Internet directory services software,N,N,Cybersecurity Analyst
+SK00012,Ada,Development environment software,N,N,"AI Engineer, Full Stack Developer, Software Engineer"
+SK00013,Adobe Acrobat,Document management software,Y,N,"Full Stack Developer, Software Engineer"
+SK00014,Adobe ActionScript,Development environment software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00015,Adobe After Effects,Video creation and editing software,Y,N,"Full Stack Developer, Software Engineer"
+SK00016,Adobe Creative Cloud software,Graphics or photo imaging software,Y,N,"Full Stack Developer, Software Engineer"
+SK00017,Adobe Dreamweaver,Web page creation and editing software,N,N,"Full Stack Developer, Software Engineer"
+SK00018,Adobe Flex,Web platform development software,N,N,"Full Stack Developer, Software Engineer"
+SK00019,Adobe Illustrator,Graphics or photo imaging software,Y,N,"Full Stack Developer, Software Engineer"
+SK00020,Adobe InDesign,Desktop publishing software,Y,N,"Full Stack Developer, Software Engineer"
+SK00021,Adobe Photoshop,Graphics or photo imaging software,Y,N,"Full Stack Developer, Software Engineer"
+SK00022,Advanced business application programming ABAP,Object or component oriented development software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00023,Advanced numerical software,Analytical or scientific software,N,N,AI Engineer
+SK00024,Airtable,Data base user interface and query software,N,N,"Full Stack Developer, Software Engineer"
+SK00025,Algorithmic language ALGOL,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00026,Algorithmic software,Analytical or scientific software,N,N,AI Engineer
+SK00027,Allaire ColdFusion,Web platform development software,N,N,"Full Stack Developer, Software Engineer"
+SK00028,Alteryx software,Business intelligence and data analysis software,Y,N,"Data Analyst, Full Stack Developer, Software Engineer"
+SK00029,Amazon DynamoDB,Data base management system software,Y,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00030,Amazon Elastic Compute Cloud EC2,Data base user interface and query software,Y,N,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00031,Amazon Kinesis,Data base management system software,N,N,"Full Stack Developer, Software Engineer"
+SK00032,Amazon Redshift,Data base user interface and query software,Y,N,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00033,Amazon Simple Storage Service S3,Storage networking software,N,N,"Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00034,Amazon Web Services AWS CloudFormation,Cloud-based management software,Y,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00035,Amazon Web Services AWS SageMaker,Cloud-based management software,N,Y,"AI Engineer, Data Analyst"
+SK00036,Amazon Web Services AWS software,Data base user interface and query software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00037,American National Standards Institute ANSI C,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00038,Angoss KnowledgeSEEKER,Data mining software,N,N,Data Analyst
+SK00039,Ansible software,Expert system software,Y,Y,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00040,Anti-Trojan software,Transaction security and virus protection software,N,N,Cybersecurity Analyst
+SK00041,Anti-phishing software,Transaction security and virus protection software,N,N,Cybersecurity Analyst
+SK00042,Anti-spyware software,Transaction security and virus protection software,N,N,Cybersecurity Analyst
+SK00043,Apache Airflow,Procedure management software,Y,N,"AI Engineer, Data Analyst, Full Stack Developer, Software Engineer"
+SK00044,Apache Ant,Development environment software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00045,Apache Avro,Information retrieval or search software,N,N,"Full Stack Developer, Software Engineer"
+SK00046,Apache Cassandra,Data base management system software,Y,N,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00047,Apache Flume,Data base management system software,N,N,"AI Engineer, Full Stack Developer, Software Engineer"
+SK00048,Apache Groovy,Object or component oriented development software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00049,Apache HBase,Data base management system software,N,N,"Full Stack Developer, Software Engineer"
+SK00050,Apache HTTP Server,Portal server software,N,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00051,Apache Hadoop,Data base management system software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00052,Apache Hive,Data base management system software; Data base user interface and query software,Y,N,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00053,Apache Kafka,Development environment software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00054,Apache MXNet,Industrial control software,N,N,Data Analyst
+SK00055,Apache Maven,Development environment software,Y,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00056,Apache Oozie,Data base management system software,N,N,"Full Stack Developer, Software Engineer"
+SK00057,Apache Pig,Data base management system software,N,N,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00058,Apache Solr,Data base management system software,N,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00059,Apache Spark,Business intelligence and data analysis software; Object or component oriented development software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00060,Apache Struts,Web platform development software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00061,Apache Subversion SVN,File versioning software,Y,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00062,Apache Tomcat,Web platform development software,Y,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00063,Apple iOS,Operating system software,Y,N,"Full Stack Developer, Software Engineer"
+SK00064,Apple macOS,Operating system software,Y,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00065,Aptech Systems GAUSS,Analytical or scientific software,N,N,Data Analyst
+SK00066,ArcSight Enterprise Threat and Risk Management,Risk management data and analysis software,N,N,Cybersecurity Analyst
+SK00067,Atlassian Bamboo,Enterprise application integration software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00068,Atlassian Bitbucket,Application server software,Y,N,"Full Stack Developer, Software Engineer"
+SK00069,Atlassian Confluence,Project management software,Y,N,"Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00070,Atlassian JIRA,Content workflow software,Y,Y,"Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00071,Augmint,Analytical or scientific software,N,N,AI Engineer
+SK00072,Automated audit trail analysis software,Network monitoring software,N,N,Cybersecurity Analyst
+SK00073,Automated document generation software,Development environment software,N,N,AI Engineer
+SK00074,Automated installation software,Configuration management software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00075,Automated media tracking software,Network monitoring software,N,N,Cybersecurity Analyst
+SK00076,Automatic Forecasting Systems Autobox,Analytical or scientific software,N,N,Data Analyst
+SK00077,B-Method,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00078,Backbone.js,Web platform development software,N,N,"Full Stack Developer, Software Engineer"
+SK00079,Backup and archival software,Backup or archival software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00080,Bash,Operating system software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00081,Beginner's all-purpose symbolic instruction code BASIC,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00082,Berkeley Internet Domain Name BIND,Internet directory services software,N,N,Cybersecurity Analyst
+SK00083,Bidirectional encoder representations from transformers (BERT),Analytical or scientific software,N,N,AI Engineer
+SK00084,BigQuery,Data base user interface and query software,N,N,Data Analyst
+SK00085,Bigloo Scheme,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00086,Blackbaud The Raiser's Edge,Customer relationship management CRM software,N,N,"Full Stack Developer, Software Engineer"
+SK00087,Blackboard software,Data base user interface and query software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00088,Blink,Instant messaging software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00089,Bootstrap,Web platform development software,Y,N,"Full Stack Developer, Software Engineer"
+SK00090,Border Gateway Protocol BGP,Switch or router software,Y,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00091,Business intelligence software,Business intelligence and data analysis software,N,N,Data Analyst
+SK00092,Business software applications,Office suite software,N,N,AI Engineer
+SK00093,C,Development environment software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00094,C#,Object or component oriented development software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00095,C++,Object or component oriented development software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00096,CMake,Development environment software,N,N,AI Engineer
+SK00097,Call-processing language CPL,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00098,Camfit Data Limited Microfit,Analytical or scientific software,N,N,Data Analyst
+SK00099,Canu,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00100,Cascading style sheets CSS,Web platform development software,Y,Y,"Full Stack Developer, Software Engineer"
+SK00101,Charm++,Object or component oriented development software,N,N,AI Engineer
+SK00102,Chatbot software,Industrial control software,N,N,AI Engineer
+SK00103,Check Point Next Generation Secure Web Gateway,Transaction security and virus protection software,N,N,Cybersecurity Analyst
+SK00104,Chef,Configuration management software,Y,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00105,Cisco IOS,Operating system software,N,N,"Full Stack Developer, Software Engineer"
+SK00106,Cisco Systems CiscoWorks,Administration software,N,N,Cybersecurity Analyst
+SK00107,Cisco Webex,Video conferencing software,Y,N,"Full Stack Developer, Software Engineer"
+SK00108,Citrix cloud computing software,Access software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00109,Clustermatic,Clustering software,N,N,AI Engineer
+SK00110,Collaborative Application Markup Language CAML,Object or component oriented development software,N,N,"Full Stack Developer, Software Engineer"
+SK00111,Common Lisp Object System CLOS,Object or component oriented development software,N,N,"Full Stack Developer, Software Engineer"
+SK00112,Common business oriented language COBOL,Development environment software,N,N,"Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00113,Component object model COM software,Object or component oriented development software,N,N,"Full Stack Developer, Software Engineer"
+SK00114,Component-based Scalable Logical Architecture CSLA,Object or component oriented development software,N,N,"Full Stack Developer, Software Engineer"
+SK00115,Computational statistics software,Analytical or scientific software,N,N,AI Engineer
+SK00116,Computer Associates integrated data management system CA-IDMS,Data base management system software,N,N,"Full Stack Developer, Software Engineer"
+SK00117,Computer On-line Real-time Applications Language CORAL 66,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00118,Computer aided design and drafting CADD software,Computer aided design CAD software,N,N,AI Engineer
+SK00119,Computer forensic software,Filesystem software,N,N,Cybersecurity Analyst
+SK00120,Conformance and validation testing software,Program testing software,N,N,Cybersecurity Analyst
+SK00121,Cryptographic key management software,Network security and virtual private network VPN equipment software,N,N,Cybersecurity Analyst
+SK00122,Customer information control system CICS,Transaction server software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00123,Cytel StatXact,Analytical or scientific software,N,N,Data Analyst
+SK00124,Data analysis software,Analytical or scientific software,N,N,"Full Stack Developer, Software Engineer"
+SK00125,Data definition language DDL,Data base management system software,N,N,"Full Stack Developer, Software Engineer"
+SK00126,Data manipulation language DML,Data base management system software,N,N,"Full Stack Developer, Software Engineer"
+SK00127,Data visualization software,Analytical or scientific software,N,N,AI Engineer
+SK00128,DataDescription DataDesk,Analytical or scientific software,N,N,Data Analyst
+SK00129,DataVision,Data base reporting software,N,N,"Full Stack Developer, Software Engineer"
+SK00130,Defect tracking software,Program testing software,N,N,"Full Stack Developer, Software Engineer"
+SK00131,Delphi Technology,Financial analysis software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00132,Deployment software,Configuration management software,N,N,"Full Stack Developer, Software Engineer"
+SK00133,Diameter,Authentication server software,N,N,Cybersecurity Analyst
+SK00134,Disk operating system DOS,Operating system software,N,N,"Full Stack Developer, Software Engineer"
+SK00135,Distributed component object model DCOM software,Object or component oriented development software,N,N,"Full Stack Developer, Software Engineer"
+SK00136,Distributed database management software,Data base management system software,N,N,"Full Stack Developer, Software Engineer"
+SK00137,Django,Web platform development software,Y,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00138,Docker,Application server software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00139,Document Object Model DOM Scripting,Object or component oriented development software,N,N,"Full Stack Developer, Software Engineer"
+SK00140,Document management system software,Document management software,N,N,"Full Stack Developer, Software Engineer"
+SK00141,Domain name system DNS,Internet directory services software,N,N,Cybersecurity Analyst
+SK00142,Doxygen,Development environment software,N,N,AI Engineer
+SK00143,Dropbox,Cloud-based data access and sharing software,N,N,"Full Stack Developer, Software Engineer"
+SK00144,Drupal,Web platform development software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00145,Dynamic analysis software,Program testing software,N,N,"Full Stack Developer, Software Engineer"
+SK00146,Dynamic hypertext markup language DHTML,Web platform development software,N,N,"Full Stack Developer, Software Engineer"
+SK00147,Dynamic modeling software,Analytical or scientific software,N,N,"Full Stack Developer, Software Engineer"
+SK00148,E++ pattern language,Object or component oriented development software,N,N,"Full Stack Developer, Software Engineer"
+SK00149,ESRI ArcGIS software,Geographic information system; Map creation software,Y,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00150,Eclipse IDE,Development environment software,Y,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00151,Eclipse Jersey,Web platform development software,N,N,"Full Stack Developer, Software Engineer"
+SK00152,Econometric Software LIMDEP,Analytical or scientific software,N,N,Data Analyst
+SK00153,Eiffel,Object or component oriented development software,N,N,"AI Engineer, Full Stack Developer, Software Engineer"
+SK00154,Elasticsearch,Data base management system software,Y,N,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00155,Embarcadero Delphi,Object or component oriented development software,N,N,"Full Stack Developer, Software Engineer"
+SK00156,Embarcadero JBuilder,Development environment software,N,N,"AI Engineer, Full Stack Developer, Software Engineer"
+SK00157,Embedded systems development software,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00158,Emerald Software Group Emerald Green Office,Content workflow software,N,N,"Full Stack Developer, Software Engineer"
+SK00159,Encryption software,Transaction security and virus protection software,N,N,"Full Stack Developer, Software Engineer"
+SK00160,End-to-end encryption software,Transaction security and virus protection software,N,N,Cybersecurity Analyst
+SK00161,Enterprise JavaBeans,Web platform development software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00162,Enterprise application integration EAI software,Enterprise application integration software,N,N,"Full Stack Developer, Software Engineer"
+SK00163,Epic Systems,Medical software,Y,N,Cybersecurity Analyst
+SK00164,Ethereal,Network monitoring software,N,N,Cybersecurity Analyst
+SK00165,Event-driven State-machines Programming,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00166,Evernote,Word processing software,N,N,"Full Stack Developer, Software Engineer"
+SK00167,Ext JS,Web platform development software,N,N,"Full Stack Developer, Software Engineer"
+SK00168,Extensible hypertext markup language XHTML,Web platform development software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00169,Extensible markup language XML,Enterprise application integration software,Y,N,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00170,Extensible stylesheet language transformations XSLT,Web platform development software,N,N,"AI Engineer, Full Stack Developer, Software Engineer"
+SK00171,FaceTime,Video conferencing software,N,N,"Full Stack Developer, Software Engineer"
+SK00172,Fault testing software,Program testing software,N,N,"Full Stack Developer, Software Engineer"
+SK00173,Figma,Graphical user interface development software,Y,N,"Full Stack Developer, Software Engineer"
+SK00174,File server software,Filesystem software,N,N,"Full Stack Developer, Software Engineer"
+SK00175,FileMaker Pro,Data base user interface and query software,N,N,"Full Stack Developer, Software Engineer"
+SK00176,Firewall software,Network security and virtual private network VPN equipment software,N,Y,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00177,Flask,Development environment software,N,N,Data Analyst
+SK00178,Flipgrid,Video creation and editing software,N,N,"Full Stack Developer, Software Engineer"
+SK00179,Formula translation/translator FORTRAN,Development environment software,N,N,"AI Engineer, Data Analyst, Full Stack Developer, Software Engineer"
+SK00180,Forth,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00181,Functional testing software,Program testing software,N,N,"Full Stack Developer, Software Engineer"
+SK00182,GNU Image Manipulation Program GIMP,Graphics or photo imaging software,N,N,"Full Stack Developer, Software Engineer"
+SK00183,Gambit Scheme,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00184,Geographic information system GIS software,Geographic information system,N,N,"AI Engineer, Cybersecurity Analyst"
+SK00185,Geographic information system GIS systems,Geographic information system,N,N,Data Analyst
+SK00186,Git,File versioning software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00187,GitHub,Application server software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00188,GitLab,Application server software,Y,N,"AI Engineer, Full Stack Developer, Software Engineer"
+SK00189,Go,Development environment software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00190,Google Ads,Sales and marketing software,N,N,AI Engineer
+SK00191,Google Analytics,Data mining software,Y,N,"AI Engineer, Full Stack Developer, Software Engineer"
+SK00192,Google Android,Operating system software,Y,N,"Full Stack Developer, Software Engineer"
+SK00193,Google Angular,Web platform development software,Y,Y,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00194,Google Cloud software,Cloud-based management software,N,N,"Data Analyst, Full Stack Developer, Software Engineer"
+SK00195,Google Docs,Word processing software,Y,N,"Full Stack Developer, Software Engineer"
+SK00196,Google Drive,Cloud-based data access and sharing software,N,N,"Full Stack Developer, Software Engineer"
+SK00197,Google Gmail,Electronic mail software,N,N,"Full Stack Developer, Software Engineer"
+SK00198,Google Looker Analytics,Business intelligence and data analysis software,Y,N,"Data Analyst, Full Stack Developer, Software Engineer"
+SK00199,Google Meet,Video conferencing software,N,N,"Full Stack Developer, Software Engineer"
+SK00200,Google Sheets,Spreadsheet software,Y,N,"Full Stack Developer, Software Engineer"
+SK00201,Google Sites,Web page creation and editing software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00202,Google Slides,Presentation software,N,N,"Full Stack Developer, Software Engineer"
+SK00203,Gradle,Object or component oriented development software,N,N,"Full Stack Developer, Software Engineer"
+SK00204,Grafana Labs Grafana Cloud,Graphical user interface development software,Y,Y,"AI Engineer, Full Stack Developer, Software Engineer"
+SK00205,GraphPad Software GraphPad Prism,Analytical or scientific software,N,N,Data Analyst
+SK00206,GraphQL,Data base user interface and query software,Y,N,"Full Stack Developer, Software Engineer"
+SK00207,Graphical user interface GUI builder software,Graphical user interface development software,N,N,"Full Stack Developer, Software Engineer"
+SK00208,Graphical user interface GUI design software,Graphical user interface development software,N,N,"Full Stack Developer, Software Engineer"
+SK00209,Graphics pipelines,Graphics or photo imaging software,N,N,AI Engineer
+SK00210,Greenhills Ada compilers,Compiler and decompiler software,N,N,AI Engineer
+SK00211,GroupMe,Instant messaging software,N,N,"Full Stack Developer, Software Engineer"
+SK00212,Guidance Software EnCase Forensic,Network monitoring software,N,N,Cybersecurity Analyst
+SK00213,HP Fortify,Network security or virtual private network VPN management software,N,N,Cybersecurity Analyst
+SK00214,HP WebInspect,Transaction security and virus protection software,N,N,Cybersecurity Analyst
+SK00215,Haskell,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00216,Hewlett Packard HP-UX,Operating system software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00217,Hewlett Packard LoadRunner,Program testing software,N,N,"Full Stack Developer, Software Engineer"
+SK00218,Hibernate ORM,Object oriented data base management software,Y,N,"Full Stack Developer, Software Engineer"
+SK00219,High-performance software libraries,Development environment software,N,N,AI Engineer
+SK00220,Honeypot,Transaction security and virus protection software,N,N,Cybersecurity Analyst
+SK00221,Hugging Face,Development environment software,N,Y,AI Engineer
+SK00222,Human resource management software HRMS,Human resources software,N,N,Cybersecurity Analyst
+SK00223,Hypertext markup language HTML,Web platform development software,Y,Y,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00224,IBM AIX,Operating system software,N,N,"Full Stack Developer, Software Engineer"
+SK00225,IBM Cognos Impromptu,Business intelligence and data analysis software,N,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00226,IBM DB2,Data base user interface and query software,Y,N,"Data Analyst, Full Stack Developer, Software Engineer"
+SK00227,IBM Domino,Communications server software,N,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00228,IBM InfoSphere DataStage,Enterprise application integration software,N,N,"AI Engineer, Full Stack Developer, Software Engineer"
+SK00229,IBM Middleware,Transaction server software,N,N,"Full Stack Developer, Software Engineer"
+SK00230,IBM Notes,Electronic mail software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00231,IBM Power Systems software,Enterprise system management software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00232,IBM QRadar SIEM,Network monitoring software,N,N,Cybersecurity Analyst
+SK00233,IBM Rational Apex,Configuration management software,N,N,AI Engineer
+SK00234,IBM Rational ClearCase,Configuration management software,N,N,"Full Stack Developer, Software Engineer"
+SK00235,IBM Rational ClearQuest,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00236,IBM Rational PurifyPlus,Program testing software,N,N,"Full Stack Developer, Software Engineer"
+SK00237,IBM Rational RequisitePro,Requirements analysis and system architecture software,N,N,"Full Stack Developer, Software Engineer"
+SK00238,IBM Rational Rose XDE,Development environment software,N,N,"AI Engineer, Full Stack Developer, Software Engineer"
+SK00239,IBM SPSS Amos,Analytical or scientific software,N,N,Data Analyst
+SK00240,IBM SPSS AnswerTree,Analytical or scientific software,N,N,Data Analyst
+SK00241,IBM SPSS Statistics,Analytical or scientific software,Y,Y,"AI Engineer, Data Analyst, Full Stack Developer, Software Engineer"
+SK00242,IBM Terraform,Configuration management software,Y,Y,"AI Engineer, Full Stack Developer, Software Engineer"
+SK00243,IBM Tivoli Access Management TAM,Access software,N,N,Cybersecurity Analyst
+SK00244,IBM Tivoli Identity Management TIM,Authentication server software,N,N,Cybersecurity Analyst
+SK00245,IBM WebSphere,Cloud-based management software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00246,IBM WebSphere MQ,Cloud-based management software,Y,N,"Full Stack Developer, Software Engineer"
+SK00247,IBM z/OS operating systems,Network operation system software,N,N,"Full Stack Developer, Software Engineer"
+SK00248,ICON programming language,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00249,IEA Software Emerald,Data base user interface and query software,N,N,"Full Stack Developer, Software Engineer"
+SK00250,ISS RealSecure,Network security or virtual private network VPN management software,N,N,Cybersecurity Analyst
+SK00251,Imperva SecureSphere,Network security and virtual private network VPN equipment software,N,N,Cybersecurity Analyst
+SK00252,Informatica software,Metadata management software,Y,N,"Full Stack Developer, Software Engineer"
+SK00253,Insightful S-PLUS,Analytical or scientific software,N,N,Data Analyst
+SK00254,Integrated development environment IDE software,Development environment software,N,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00255,Integration testing software,Program testing software,N,N,"Full Stack Developer, Software Engineer"
+SK00256,Integrity verification software,Network monitoring software,N,N,Cybersecurity Analyst
+SK00257,Intel Integrated Performance Primitives,Development environment software,N,N,AI Engineer
+SK00258,Intel Math Kernel Library,Analytical or scientific software,N,N,AI Engineer
+SK00259,Interface definition language IDL,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00260,Interoperability testing software,Program testing software,N,N,"Full Stack Developer, Software Engineer"
+SK00261,Interstate connection ICON,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00262,Intrusion detection system IDS,Network security or virtual private network VPN management software,N,N,Cybersecurity Analyst
+SK00263,Intrusion prevention system IPS,Network security or virtual private network VPN management software,N,N,Cybersecurity Analyst
+SK00264,IpFilter,Network security and virtual private network VPN equipment software,N,N,Cybersecurity Analyst
+SK00265,IpTables,Network security and virtual private network VPN equipment software,N,N,Cybersecurity Analyst
+SK00266,J,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00267,JFrog Artifactory,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00268,JUnit,Program testing software,Y,N,"Full Stack Developer, Software Engineer"
+SK00269,JamBoard,Graphics or photo imaging software,N,N,"Full Stack Developer, Software Engineer"
+SK00270,JavaScript,Web platform development software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00271,JavaScript Object Notation JSON,Web platform development software,Y,N,"Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00272,JavaScript framework software,Web platform development software,N,N,"Full Stack Developer, Software Engineer"
+SK00273,Jenkins CI,Enterprise application integration software,Y,Y,"AI Engineer, Data Analyst, Full Stack Developer, Software Engineer"
+SK00274,Job control language JCL,Operating system software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00275,Julia,Development environment software,N,N,Data Analyst
+SK00276,Juniper Networks NetScreen-Security Manager,Network security and virtual private network VPN equipment software,N,N,Cybersecurity Analyst
+SK00277,Jupyter Notebook,Object or component oriented development software,N,N,"AI Engineer, Full Stack Developer, Software Engineer"
+SK00278,Jupyter software,Object or component oriented development software,N,N,Data Analyst
+SK00279,Kali Linux,Program testing software,N,N,Cybersecurity Analyst
+SK00280,Keras,Operating system software,N,N,Data Analyst
+SK00281,Keystroke monitoring software,Network monitoring software,N,N,Cybersecurity Analyst
+SK00282,KornShell,Operating system software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00283,Kotlin,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00284,Kubeflow,Analytical or scientific software,N,N,Data Analyst
+SK00285,Kubernetes,Application server software,Y,Y,"AI Engineer, Data Analyst, Full Stack Developer, Software Engineer"
+SK00286,LAMP Stack,Web platform development software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00287,LangChain,Object or component oriented development software,N,Y,AI Engineer
+SK00288,LexisNexis,Information retrieval or search software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00289,LibreOffice,Office suite software,N,N,"Full Stack Developer, Software Engineer"
+SK00290,Link encryption software,Transaction security and virus protection software,N,N,Cybersecurity Analyst
+SK00291,LinkedIn,Web page creation and editing software,N,N,"Full Stack Developer, Software Engineer"
+SK00292,Linux,Operating system software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00293,List processing language LISP,Development environment software,N,N,"AI Engineer, Full Stack Developer, Software Engineer"
+SK00294,Load testing software,Program testing software,N,N,"Full Stack Developer, Software Engineer"
+SK00295,LogMeIn GoToMeeting,Video conferencing software,N,N,"Full Stack Developer, Software Engineer"
+SK00296,LogMeIn GoToWebinar,Network conferencing software,N,N,"Full Stack Developer, Software Engineer"
+SK00297,Loom,Video creation and editing software,N,N,"Full Stack Developer, Software Engineer"
+SK00298,Low-level virtual machine LLVM compilers,Compiler and decompiler software,N,N,AI Engineer
+SK00299,MITRE ATT&CK software,Program testing software,N,Y,Cybersecurity Analyst
+SK00300,MUMPS M,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00301,Magellan Firmware,Operating system software,N,N,"Full Stack Developer, Software Engineer"
+SK00302,Management information systems MIS,Enterprise resource planning ERP software,N,N,"Data Analyst, Full Stack Developer, Software Engineer"
+SK00303,MapReduce big data software,Business intelligence and data analysis software,N,N,Data Analyst
+SK00304,Marketo Marketing Automation,Sales and marketing software,Y,N,"Full Stack Developer, Software Engineer"
+SK00305,MathWorks Simulink,Analytical or scientific software,N,N,"Full Stack Developer, Software Engineer"
+SK00306,Mathematical software,Analytical or scientific software,N,N,"AI Engineer, Data Analyst"
+SK00307,McAfee,Transaction security and virus protection software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00308,McAfee VirusScan,Transaction security and virus protection software,N,N,Cybersecurity Analyst
+SK00309,Metasploit,Transaction security and virus protection software,N,N,Cybersecurity Analyst
+SK00310,Micro Focus OpenView,Network monitoring software,N,N,Cybersecurity Analyst
+SK00311,MicroStrategy,Business intelligence and data analysis software,N,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00312,Microservices Architecture,Application server software,N,N,"Full Stack Developer, Software Engineer"
+SK00313,Microsoft .NET Framework,Development environment software,Y,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00314,Microsoft ASP.NET,Web platform development software,Y,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00315,Microsoft ASP.NET Core MVC,Web platform development software,N,N,"Full Stack Developer, Software Engineer"
+SK00316,Microsoft Access,Data base user interface and query software,Y,N,"Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00317,Microsoft Active Directory,Internet directory services software,Y,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00318,Microsoft Active Server Pages ASP,Web platform development software,Y,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00319,Microsoft ActiveX,Object or component oriented development software,N,N,"AI Engineer, Full Stack Developer, Software Engineer"
+SK00320,Microsoft Azure DevOps Services,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00321,Microsoft Azure software,Development environment software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00322,Microsoft DirectX,Device drivers or system software,N,N,"Full Stack Developer, Software Engineer"
+SK00323,Microsoft Dynamics,Enterprise resource planning ERP software,N,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00324,Microsoft Dynamics GP,Enterprise resource planning ERP software,N,N,"Full Stack Developer, Software Engineer"
+SK00325,Microsoft ESP SDK,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00326,Microsoft Excel,Spreadsheet software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00327,Microsoft Exchange,Electronic mail software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00328,Microsoft Hyper-V Server,Operating system software,N,N,Cybersecurity Analyst
+SK00329,Microsoft Internet Information Services (IIS),Transaction server software,N,N,"Full Stack Developer, Software Engineer"
+SK00330,Microsoft Office software,Office suite software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00331,Microsoft OneNote,Word processing software,N,N,"Full Stack Developer, Software Engineer"
+SK00332,Microsoft Outlook,Electronic mail software,Y,N,"Full Stack Developer, Software Engineer"
+SK00333,Microsoft Power Automate,Enterprise application integration software,Y,N,"Full Stack Developer, Software Engineer"
+SK00334,Microsoft Power BI,Business intelligence and data analysis software,Y,Y,"AI Engineer, Data Analyst, Full Stack Developer, Software Engineer"
+SK00335,Microsoft Power Platform software,Enterprise application integration software,Y,N,"Full Stack Developer, Software Engineer"
+SK00336,Microsoft PowerPoint,Presentation software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00337,Microsoft PowerShell,Development environment software,Y,Y,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00338,Microsoft Project,Project management software,Y,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00339,Microsoft Publisher,Desktop publishing software,N,N,"Full Stack Developer, Software Engineer"
+SK00340,Microsoft SQL Server,Data base user interface and query software,Y,N,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00341,Microsoft SQL Server Integration Services SSIS,Enterprise application integration software,Y,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00342,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00343,Microsoft SharePoint,Document management software,Y,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00344,Microsoft Team Foundation Server,Project management software,Y,N,"Full Stack Developer, Software Engineer"
+SK00345,Microsoft Teams,Project management software,Y,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00346,Microsoft Visio,Process mapping and design software,Y,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00347,Microsoft Visual Basic,Development environment software,Y,N,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00348,Microsoft Visual Basic Scripting Edition VBScript,Development environment software,N,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00349,Microsoft Visual Basic for Applications VBA,Development environment software,Y,N,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00350,Microsoft Visual Basic.NET,Object or component oriented development software,N,N,"AI Engineer, Full Stack Developer, Software Engineer"
+SK00351,Microsoft Visual C# .NET,Object or component oriented development software,N,N,"AI Engineer, Full Stack Developer, Software Engineer"
+SK00352,Microsoft Visual FoxPro,Object oriented data base management software,N,N,Data Analyst
+SK00353,Microsoft Visual Studio,Development environment software,Y,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00354,Microsoft Visual Studio.NET,Development environment software,N,N,AI Engineer
+SK00355,Microsoft Windows,Operating system software,Y,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00356,Microsoft Windows Server,Operating system software,Y,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00357,Microsoft Windows XP,Operating system software,N,N,AI Engineer
+SK00358,Microsoft Word,Word processing software,Y,N,"Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00359,Microsoft transact-structural query language T-SQL,Data base management system software,N,N,"Full Stack Developer, Software Engineer"
+SK00360,Migration software,Platform interconnectivity software,N,N,"Full Stack Developer, Software Engineer"
+SK00361,Migration testing software,Program testing software,N,N,"Full Stack Developer, Software Engineer"
+SK00362,Minitab,Analytical or scientific software,N,N,"AI Engineer, Data Analyst, Full Stack Developer, Software Engineer"
+SK00363,Mlflow,Analytical or scientific software,N,N,Data Analyst
+SK00364,Modula,Object or component oriented development software,N,N,"Full Stack Developer, Software Engineer"
+SK00365,MongoDB,Data base management system software,Y,N,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00366,Moodle,Computer based training software,N,N,"Full Stack Developer, Software Engineer"
+SK00367,MuleSoft software,Enterprise application integration software,N,N,"Full Stack Developer, Software Engineer"
+SK00368,Multisensory data representation software,Analytical or scientific software,N,N,AI Engineer
+SK00369,Mutation testing software,Program testing software,N,N,"Full Stack Developer, Software Engineer"
+SK00370,Muthen & Muthen Mplus,Analytical or scientific software,N,N,Data Analyst
+SK00371,MySQL,Data base management system software; Data base user interface and query software,Y,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00372,NCR Teradata Warehouse Miner,Data mining software,N,N,Data Analyst
+SK00373,NCSS Power Analysis and Sample Size PASS,Analytical or scientific software,N,N,Data Analyst
+SK00374,Nagios,Network monitoring software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00375,National Instruments LabVIEW,Development environment software,N,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00376,Neo4j,Data base user interface and query software,N,N,Data Analyst
+SK00377,NetSuite ERP,Enterprise resource planning ERP software,N,N,"Full Stack Developer, Software Engineer"
+SK00378,Network and system vulnerability assessment software,Network security or virtual private network VPN management software,N,N,Cybersecurity Analyst
+SK00379,Network directory services software,Internet directory services software,N,N,Cybersecurity Analyst
+SK00380,Network intrusion prevention systems NIPS,Network monitoring software,N,N,Cybersecurity Analyst
+SK00381,Network security auditing software,Network security or virtual private network VPN management software,N,N,Cybersecurity Analyst
+SK00382,"Network, hardware, and software auditing software",Network monitoring software,N,N,Cybersecurity Analyst
+SK00383,NoSQL,Data base management system software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00384,Node.js,Web platform development software,Y,Y,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00385,Norton AntiVirus,Transaction security and virus protection software,N,N,Cybersecurity Analyst
+SK00386,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00387,NumPy,Data base user interface and query software,N,Y,Data Analyst
+SK00388,Oberon,Object or component oriented development software,N,N,"Full Stack Developer, Software Engineer"
+SK00389,Object Management Group Object Request Broker,Transaction server software,N,N,"Full Stack Developer, Software Engineer"
+SK00390,Object oriented development environment software,Object or component oriented development software,N,N,AI Engineer
+SK00391,Objective C,Object or component oriented development software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00392,Objective Caml,Object or component oriented development software,N,N,"Full Stack Developer, Software Engineer"
+SK00393,Open Graphics Library OpenGL,Graphics or photo imaging software,N,N,"AI Engineer, Full Stack Developer, Software Engineer"
+SK00394,OpenAI ChatGPT,Development environment software,N,N,"AI Engineer, Data Analyst, Full Stack Developer, Software Engineer"
+SK00395,Operating system shells,Operating system software,N,N,"Full Stack Developer, Software Engineer"
+SK00396,Optimization software,Analytical or scientific software,N,N,AI Engineer
+SK00397,Oracle Application Server,Application server software,N,N,"Full Stack Developer, Software Engineer"
+SK00398,Oracle Business Intelligence Discoverer,Data base reporting software,N,N,"Full Stack Developer, Software Engineer"
+SK00399,Oracle Business Intelligence Enterprise Edition,Business intelligence and data analysis software,N,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00400,Oracle Business Intelligence Suite,Data base reporting software,N,N,"Full Stack Developer, Software Engineer"
+SK00401,Oracle Cloud software,Cloud-based management software,Y,N,"Full Stack Developer, Software Engineer"
+SK00402,Oracle Database,Data base management system software; Data base user interface and query software,Y,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00403,Oracle E-Business Suite Financials,Financial analysis software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00404,Oracle Eloqua,Customer relationship management CRM software,N,N,"Full Stack Developer, Software Engineer"
+SK00405,Oracle Fusion Applications,Enterprise resource planning ERP software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00406,Oracle Fusion Middleware,Enterprise application integration software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00407,Oracle Hyperion,Enterprise resource planning ERP software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00408,Oracle JD Edwards EnterpriseOne,Enterprise resource planning ERP software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00409,Oracle JDBC,Data base user interface and query software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00410,Oracle Java,Object or component oriented development software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00411,Oracle Java 2 Platform Enterprise Edition J2EE,Development environment software,Y,N,"AI Engineer, Full Stack Developer, Software Engineer"
+SK00412,Oracle Java Message Service JMS,Object or component oriented development software,N,N,"Full Stack Developer, Software Engineer"
+SK00413,Oracle JavaServer Pages JSP,Web platform development software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00414,Oracle Net Manager,Network monitoring software,N,N,Cybersecurity Analyst
+SK00415,Oracle PL/SQL,Data base management system software,Y,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00416,Oracle PeopleSoft,Enterprise resource planning ERP software,Y,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00417,Oracle PeopleSoft Financials,Enterprise resource planning ERP software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00418,Oracle Primavera Enterprise Project Portfolio Management,Project management software,Y,N,"Full Stack Developer, Software Engineer"
+SK00419,Oracle Reports,Data base reporting software,N,N,"Full Stack Developer, Software Engineer"
+SK00420,Oracle SQL Developer,Development environment software,Y,N,"Full Stack Developer, Software Engineer"
+SK00421,Oracle Solaris,Operating system software,N,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00422,Oracle WebLogic Server,Application server software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00423,PHP,Web platform development software,Y,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00424,PTC Creo Parametric,Computer aided design CAD software,N,N,AI Engineer
+SK00425,Palo Alto Networks Next-Generation Security Platform,Network security and virtual private network VPN equipment software,N,N,Cybersecurity Analyst
+SK00426,Parallel systems software,Clustering software,N,N,AI Engineer
+SK00427,Pascal,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00428,Password cracker software,Transaction security and virus protection software,N,N,Cybersecurity Analyst
+SK00429,Password management software,Authentication server software,N,N,Cybersecurity Analyst
+SK00430,Patch and update management software,Configuration management software,N,N,Cybersecurity Analyst
+SK00431,Patch management software,Configuration management software,N,N,"Full Stack Developer, Software Engineer"
+SK00432,Penetration testing software,Transaction security and virus protection software,N,N,Cybersecurity Analyst
+SK00433,Perforce Helix software,Configuration management software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00434,Perforce Software Configuration Management System,Configuration management software,N,N,AI Engineer
+SK00435,Perl,Object or component oriented development software,Y,N,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00436,Ping Identity,Transaction security and virus protection software,N,N,Cybersecurity Analyst
+SK00437,Platform as a service PaaS,Cloud-based data access and sharing software,N,N,"Full Stack Developer, Software Engineer"
+SK00438,Plug-in file software,Web page creation and editing software,N,N,AI Engineer
+SK00439,Polaris parallelizing compilers,Compiler and decompiler software,N,N,AI Engineer
+SK00440,Polhemus Fasttrack System,Analytical or scientific software,N,N,AI Engineer
+SK00441,Portswigger BurP Suite,Transaction security and virus protection software,N,N,Cybersecurity Analyst
+SK00442,PostgreSQL,Object oriented data base management software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00443,Program checksumming software,Transaction security and virus protection software,N,N,Cybersecurity Analyst
+SK00444,Programming language one PL/I,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00445,Prolog,Development environment software,N,N,"AI Engineer, Full Stack Developer, Software Engineer"
+SK00446,Prometheus,Data base user interface and query software,Y,Y,"AI Engineer, Full Stack Developer, Software Engineer"
+SK00447,PuTTY,Access software,N,N,"Full Stack Developer, Software Engineer"
+SK00448,Puppet,Configuration management software,Y,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00449,PySpark,Data base user interface and query software,N,N,Data Analyst
+SK00450,PyTorch,Data base user interface and query software,Y,Y,"AI Engineer, Data Analyst, Full Stack Developer, Software Engineer"
+SK00451,Python,Object or component oriented development software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00452,QNX,Operating system software,N,N,"Full Stack Developer, Software Engineer"
+SK00453,Qlik Tech QlikView,Business intelligence and data analysis software,N,N,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00454,Qualys Cloud Platform,Cloud-based protection or security software,N,N,Cybersecurity Analyst
+SK00455,Quantitative Micro Software EViews,Analytical or scientific software,N,N,Data Analyst
+SK00456,Quest BigBrother,Network monitoring software,N,N,Cybersecurity Analyst
+SK00457,Quest Erwin Data Modeler,Metadata management software,N,N,"AI Engineer, Full Stack Developer, Software Engineer"
+SK00458,R,Object or component oriented development software,Y,Y,"AI Engineer, Data Analyst, Full Stack Developer, Software Engineer"
+SK00459,RAT-STATS,Analytical or scientific software,N,N,Data Analyst
+SK00460,RESTful API,Web platform development software,N,Y,"Data Analyst, Full Stack Developer, Software Engineer"
+SK00461,RabbitMQ,Object or component oriented development software,N,N,"Full Stack Developer, Software Engineer"
+SK00462,Rapid7 Nexpose,Transaction security and virus protection software,N,N,Cybersecurity Analyst
+SK00463,React,Web platform development software,Y,Y,"Full Stack Developer, Software Engineer"
+SK00464,React Native,Web platform development software,N,N,"Full Stack Developer, Software Engineer"
+SK00465,React Redux,Web platform development software,N,N,"Full Stack Developer, Software Engineer"
+SK00466,Real time operating system RTOS software,Operating system software,N,N,"Full Stack Developer, Software Engineer"
+SK00467,Recovery testing software,Program testing software,N,N,"Full Stack Developer, Software Engineer"
+SK00468,Red Hat Ansible Engine,Configuration management software,N,N,"Full Stack Developer, Software Engineer"
+SK00469,Red Hat Enterprise Linux,Operating system software,Y,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00470,Red Hat OpenShift,Application server software,Y,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00471,Red Hat WildFly,Application server software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00472,Redis,Data base management system software,Y,N,"AI Engineer, Full Stack Developer, Software Engineer"
+SK00473,Regression testing software,Program testing software,N,N,"Full Stack Developer, Software Engineer"
+SK00474,Relational database management software,Data base management system software,N,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00475,Relational database management system software,Data base management system software,N,N,AI Engineer
+SK00476,Remote authentication dial-in user service RADIUS software,Authentication server software,N,N,Cybersecurity Analyst
+SK00477,Reporting software,Data base reporting software,N,N,Data Analyst
+SK00478,Requirements management software,Requirements analysis and system architecture software,N,N,"Full Stack Developer, Software Engineer"
+SK00479,Restructured extended executor REXX,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00480,Rice Simulator for ILP Multiprocessors RSIM,Analytical or scientific software,N,N,AI Engineer
+SK00481,Root kit detection software,Transaction security and virus protection software,N,N,Cybersecurity Analyst
+SK00482,Ruby,Development environment software,Y,N,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00483,Ruby on Rails,Web platform development software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00484,SAP Adaptive Server Enterprise,Data base management system software,N,N,"Full Stack Developer, Software Engineer"
+SK00485,SAP Business Intelligence,Data base reporting software,N,N,"Full Stack Developer, Software Engineer"
+SK00486,SAP Business Objects,Enterprise resource planning ERP software,N,N,"AI Engineer, Full Stack Developer, Software Engineer"
+SK00487,SAP Crystal Reports,Data base reporting software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00488,SAP ERP,Enterprise resource planning ERP software,Y,N,"Full Stack Developer, Software Engineer"
+SK00489,SAP NetWeaver,Enterprise application integration software,N,N,"Full Stack Developer, Software Engineer"
+SK00490,SAP PowerBuilder,Object or component oriented development software,N,N,"Data Analyst, Full Stack Developer, Software Engineer"
+SK00491,SAP software,Enterprise resource planning ERP software,Y,N,"Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00492,SAS,Analytical or scientific software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00493,SAS Enterprise Miner,Data mining software,N,N,Data Analyst
+SK00494,SAS JMP,Analytical or scientific software,N,Y,Data Analyst
+SK00495,SAS/CONNECT,Enterprise application integration software,N,N,Data Analyst
+SK00496,STATISTICA,Analytical or scientific software,N,N,Data Analyst
+SK00497,Salesforce Visualforce,Graphical user interface development software,N,N,"Full Stack Developer, Software Engineer"
+SK00498,Salesforce software,Customer relationship management CRM software,Y,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00499,Scala,Object or component oriented development software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00500,Scheme,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00501,SciPy,Object or component oriented development software,N,N,Data Analyst
+SK00502,Scientific Software International SSI Hierarchical Linear and Non-Linear Modeling HLM,Analytical or scientific software,N,N,Data Analyst
+SK00503,Scientific Software International SSI LISREL,Analytical or scientific software,N,N,Data Analyst
+SK00504,Scikit-learn,Development environment software,N,Y,"AI Engineer, Data Analyst"
+SK00505,Screencastify,Video creation and editing software,N,N,"Full Stack Developer, Software Engineer"
+SK00506,Secure internet filtering software,Transaction security and virus protection software,N,N,Cybersecurity Analyst
+SK00507,Secure shell SSH software,Desktop communications software,N,N,Cybersecurity Analyst
+SK00508,Security incident management software,Network security or virtual private network VPN management software,N,N,Cybersecurity Analyst
+SK00509,Security risk assessment software,Transaction security and virus protection software,N,N,Cybersecurity Analyst
+SK00510,Security testing software,Program testing software,N,N,"Full Stack Developer, Software Engineer"
+SK00511,Selenium,Program testing software,Y,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00512,ServiceNow,Data base user interface and query software,Y,N,"Full Stack Developer, Software Engineer"
+SK00513,Shell script,Operating system software,Y,N,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00514,Shiny,Object or component oriented development software,N,N,Data Analyst
+SK00515,Simple API for XML SAX,Object or component oriented development software,N,N,"Full Stack Developer, Software Engineer"
+SK00516,Simulation program with integrated circuit emphasis SPICE,Analytical or scientific software,N,N,"Full Stack Developer, Software Engineer"
+SK00517,Simulation software,Analytical or scientific software,N,N,AI Engineer
+SK00518,Single sign-on SSO,Authentication server software,N,N,"Full Stack Developer, Software Engineer"
+SK00519,Skype,Desktop communications software,N,N,"Full Stack Developer, Software Engineer"
+SK00520,Slack,Cloud-based data access and sharing software,Y,N,"Full Stack Developer, Software Engineer"
+SK00521,Smalltalk,Object or component oriented development software,N,N,"Full Stack Developer, Software Engineer"
+SK00522,Smart card management software,Point of sale POS software,N,N,Cybersecurity Analyst
+SK00523,SmugMug Flickr,Graphics or photo imaging software,N,N,"Full Stack Developer, Software Engineer"
+SK00524,Sniffer Investigator,Network monitoring software,N,N,Cybersecurity Analyst
+SK00525,Snort,Network monitoring software,N,N,Cybersecurity Analyst
+SK00526,Snowflake,Data mining software,Y,Y,"AI Engineer, Data Analyst, Full Stack Developer, Software Engineer"
+SK00527,Social media sites,Web page creation and editing software,N,N,"Full Stack Developer, Software Engineer"
+SK00528,Software development tools,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00529,Software distribution management software,Administration software,N,N,"Full Stack Developer, Software Engineer"
+SK00530,Software libraries,Development environment software,N,N,"AI Engineer, Full Stack Developer, Software Engineer"
+SK00531,SonarQube,Program testing software,N,N,"Full Stack Developer, Software Engineer"
+SK00532,Source code editor software,Program testing software,N,N,"Full Stack Developer, Software Engineer"
+SK00533,Source code management SCM software,Development environment software,N,N,AI Engineer
+SK00534,Splunk Enterprise,Cloud-based management software; Enterprise system management software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00535,Spring Boot,Application server software,Y,Y,"Full Stack Developer, Software Engineer"
+SK00536,Spring Framework,Web platform development software,Y,Y,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00537,Stack smashing protection SSP software,Transaction security and virus protection software,N,N,Cybersecurity Analyst
+SK00538,Stat-Ease Design-Ease,Analytical or scientific software,N,N,Data Analyst
+SK00539,Stat-Ease Design-Expert,Analytical or scientific software,N,N,Data Analyst
+SK00540,StatPoint STATGRAPHICS Centurion,Analytical or scientific software,N,N,Data Analyst
+SK00541,StataCorp Stata,Analytical or scientific software,N,Y,"AI Engineer, Data Analyst, Full Stack Developer, Software Engineer"
+SK00542,Static analysis software,Program testing software,N,N,"Full Stack Developer, Software Engineer"
+SK00543,Statistical Solutions BMDP,Analytical or scientific software,N,N,Data Analyst
+SK00544,Statistical software,Analytical or scientific software,N,Y,Data Analyst
+SK00545,Storage area network SAN software,Storage networking software,N,N,"Full Stack Developer, Software Engineer"
+SK00546,Stress testing software,Program testing software,N,N,"Full Stack Developer, Software Engineer"
+SK00547,String oriented symbolic language SNOBOL,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00548,Structured Query Report SQR,Data base management system software,N,N,"Full Stack Developer, Software Engineer"
+SK00549,Structured query language SQL,Data base user interface and query software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00550,Sun Microsystems Java,Object or component oriented development software,N,N,Data Analyst
+SK00551,Sun Microsystems Java Persistence API,Object or component oriented development software,N,N,"Full Stack Developer, Software Engineer"
+SK00552,SuperANOVA,Analytical or scientific software,N,N,Data Analyst
+SK00553,Supervisory control and data acquisition SCADA software,Industrial control software,N,N,Cybersecurity Analyst
+SK00554,Swift,Object or component oriented development software,Y,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00555,Symantec Blue Coat Data Loss Prevention,Network monitoring software,N,N,Cybersecurity Analyst
+SK00556,Symantec Endpoint Protection,Transaction security and virus protection software,N,N,Cybersecurity Analyst
+SK00557,Symantec Visual Cafe,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00558,Systat Software SigmaPlot,Analytical or scientific software,N,N,Data Analyst
+SK00559,Systat Software SigmaStat,Analytical or scientific software,N,N,Data Analyst
+SK00560,System and data disaster recovery software,Backup or archival software,N,N,Cybersecurity Analyst
+SK00561,System testing software,Program testing software,N,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00562,Tableau,Business intelligence and data analysis software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00563,Talend Big Data Integration,Data base management system software,N,N,"Full Stack Developer, Software Engineer"
+SK00564,Talend Data Fabric,Metadata management software,N,N,"Full Stack Developer, Software Engineer"
+SK00565,Tcpdump,Network monitoring software,N,N,Cybersecurity Analyst
+SK00566,Tenable Nessus,Transaction security and virus protection software,N,Y,Cybersecurity Analyst
+SK00567,TensorFlow,Analytical or scientific software,Y,Y,"AI Engineer, Data Analyst, Full Stack Developer, Software Engineer"
+SK00568,Teradata Database,Data base management system software,Y,N,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00569,Test design software,Program testing software,N,N,"Full Stack Developer, Software Engineer"
+SK00570,Test implementation software,Program testing software,N,N,"Full Stack Developer, Software Engineer"
+SK00571,The MathWorks MATLAB,Analytical or scientific software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00572,Transact-SQL,Data base user interface and query software,Y,N,"AI Engineer, Full Stack Developer, Software Engineer"
+SK00573,Trend Micro TippingPoint,Network security and virtual private network VPN equipment software,N,N,Cybersecurity Analyst
+SK00574,Trimble SketchUp Pro,Graphics or photo imaging software,Y,N,"Full Stack Developer, Software Engineer"
+SK00575,TypeScript,Object or component oriented development software,Y,Y,"Full Stack Developer, Software Engineer"
+SK00576,UNISTAT Statistical Package,Analytical or scientific software,N,N,Data Analyst
+SK00577,UNIX,Operating system software,Y,Y,"AI Engineer, Cybersecurity Analyst, Data Analyst, Full Stack Developer, Software Engineer"
+SK00578,UNIX Shell,Operating system software,Y,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00579,Ubuntu,Operating system software,N,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00580,Unified modeling language UML,Requirements analysis and system architecture software,N,N,"AI Engineer, Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00581,Unit testing software,Program testing software,N,N,"Full Stack Developer, Software Engineer"
+SK00582,Usability testing software,Program testing software,N,N,"Full Stack Developer, Software Engineer"
+SK00583,VME PowerPC VxWorks,Operating system software,N,N,AI Engineer
+SK00584,VMware,Clustering software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00585,Vector database software,Data base management system software,N,Y,AI Engineer
+SK00586,Verilog,Development environment software,N,N,"AI Engineer, Full Stack Developer, Software Engineer"
+SK00587,Veritas NetBackup,Backup or archival software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00588,Version control software,File versioning software,N,N,"Full Stack Developer, Software Engineer"
+SK00589,Video editing software,Video creation and editing software,N,N,AI Engineer
+SK00590,Virtual private networking VPN software,Network security and virtual private network VPN equipment software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00591,Virus scanning software,Transaction security and virus protection software,N,N,Cybersecurity Analyst
+SK00592,Visible Razor,Configuration management software,N,N,"Full Stack Developer, Software Engineer"
+SK00593,Visual Numerics TS-WAVE,Analytical or scientific software,N,N,Data Analyst
+SK00594,Voice over internet protocol VoIP system software,Internet protocol IP multimedia subsystem software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00595,Vue.js,Web platform development software,Y,N,"Full Stack Developer, Software Engineer"
+SK00596,Waikato Environment for Knowledge Analysis Weka,Graphical user interface development software,N,N,AI Engineer
+SK00597,Web application software,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00598,Web server software,Transaction server software,N,N,"Full Stack Developer, Software Engineer"
+SK00599,Web service definition language WDSL,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00600,Websense Data Loss Prevention,Network security or virtual private network VPN management software,N,N,Cybersecurity Analyst
+SK00601,Win CE,Operating system software,N,N,"Full Stack Developer, Software Engineer"
+SK00602,WinMerge,File versioning software,N,N,Cybersecurity Analyst
+SK00603,Wind River VxWorks,Operating system software,N,N,"Full Stack Developer, Software Engineer"
+SK00604,Wireshark,Network monitoring software,N,N,"Cybersecurity Analyst, Full Stack Developer, Software Engineer"
+SK00605,Wolfram Research Mathematica,Analytical or scientific software,N,N,Data Analyst
+SK00606,WordPress,Web page creation and editing software,Y,N,"Full Stack Developer, Software Engineer"
+SK00607,Workday software,Enterprise resource planning ERP software,Y,N,"Full Stack Developer, Software Engineer"
+SK00608,XGBoost,Development environment software,N,N,Data Analyst
+SK00609,XGobi,Analytical or scientific software,N,N,Data Analyst
+SK00610,XLISP-STAT,Analytical or scientific software,N,N,Data Analyst
+SK00611,XML Path Language XPATH,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00612,Xcode,Development environment software,N,N,"Full Stack Developer, Software Engineer"
+SK00613,YouTube,Video creation and editing software,N,N,"Full Stack Developer, Software Engineer"
+SK00614,Zoom,Video conferencing software,Y,N,"Full Stack Developer, Software Engineer"
+SK00615,eMASS,Risk management data and analysis software,N,Y,Cybersecurity Analyst
+SK00616,jQuery,Object or component oriented development software,Y,N,"Full Stack Developer, Software Engineer"
+SK00617,pandas,Data base user interface and query software,N,Y,"AI Engineer, Data Analyst"
+SK00618,spaCy,Object or component oriented development software,N,N,Data Analyst
